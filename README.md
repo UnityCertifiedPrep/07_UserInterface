@@ -42,6 +42,3 @@
 + The anatomy of a slider.
 + Customizing the look and feel.
 + Binding the Slider value to a script.
-
----
-Find out more about our [Unity Certification Preparation Course](https://www.udemy.com/unitycert?couponCode=GitHubDiscount).
